@@ -1,0 +1,33 @@
+# 👉 AQUÍ SE REEMPLAZA ESTE CONTENIDO
+# Borra el texto del demo (desde "## portada") y pon el de tu video.
+#
+# Este archivo es la fuente de verdad del texto hablado.
+# - Una frase por línea, escrita EXACTAMENTE como la dice la voz.
+# - "## nombre" empieza una escena nueva (sirve para los tiempos provisionales y para leerlo fácil).
+# - Las líneas que empiezan con "#" y las vacías se ignoran; las etiquetas <break .../> también.
+
+## portada
+Este es el video demo de Futuros Vivos.
+Aquí te mostramos cómo convertir un insight de Foresight en un video corto.
+
+## insight
+Todo empieza con un insight del informe.
+Una idea clara, con evidencia, y un dato que haga pensar.
+
+## guion
+Primero, escribe el guion en una tabla: tiempo, voz en off, texto en pantalla y lo que se ve.
+
+## voz
+Después, genera la voz en ElevenLabs y guárdala en la carpeta de audio.
+El sistema encuentra el momento exacto de cada palabra.
+
+## escenas
+Luego, con Claude, describe cada escena con tus palabras.
+Claude la programa: textos, íconos, personajes y animaciones, sincronizados con la voz.
+
+## exportar
+Revisa el resultado en el navegador, pide ajustes, y exporta el video con un solo comando.
+
+## cierre
+Del informe a un video, en una tarde.
+Futuros Vivos, por InnLab.

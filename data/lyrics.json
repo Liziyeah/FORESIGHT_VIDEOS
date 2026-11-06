@@ -1,0 +1,744 @@
+{
+ "source": "align_vo.py (wav2vec2-base-960h CTC)",
+ "lines": [
+  {
+   "text": "Este es el video demo de Futuros Vivos.",
+   "start": 3.25,
+   "end": 5.9,
+   "words": [
+    {
+     "w": "Este",
+     "start": 3.25,
+     "end": 3.74
+    },
+    {
+     "w": "es",
+     "start": 3.74,
+     "end": 3.88
+    },
+    {
+     "w": "el",
+     "start": 3.88,
+     "end": 4.02
+    },
+    {
+     "w": "video",
+     "start": 4.02,
+     "end": 4.44
+    },
+    {
+     "w": "demo",
+     "start": 4.44,
+     "end": 4.74
+    },
+    {
+     "w": "de",
+     "start": 4.74,
+     "end": 4.87
+    },
+    {
+     "w": "Futuros",
+     "start": 4.87,
+     "end": 5.48
+    },
+    {
+     "w": "Vivos.",
+     "start": 5.48,
+     "end": 5.9
+    }
+   ]
+  },
+  {
+   "text": "Aquí te mostramos cómo convertir un insight de Foresight en un video corto.",
+   "start": 6.27,
+   "end": 10.36,
+   "words": [
+    {
+     "w": "Aquí",
+     "start": 6.27,
+     "end": 6.54
+    },
+    {
+     "w": "te",
+     "start": 6.54,
+     "end": 6.66
+    },
+    {
+     "w": "mostramos",
+     "start": 6.66,
+     "end": 7.26
+    },
+    {
+     "w": "cómo",
+     "start": 7.26,
+     "end": 7.51
+    },
+    {
+     "w": "convertir",
+     "start": 7.51,
+     "end": 8.0
+    },
+    {
+     "w": "un",
+     "start": 8.0,
+     "end": 8.17
+    },
+    {
+     "w": "insight",
+     "start": 8.17,
+     "end": 8.64
+    },
+    {
+     "w": "de",
+     "start": 8.64,
+     "end": 8.8
+    },
+    {
+     "w": "Foresight",
+     "start": 8.8,
+     "end": 9.27
+    },
+    {
+     "w": "en",
+     "start": 9.42,
+     "end": 9.66
+    },
+    {
+     "w": "un",
+     "start": 9.66,
+     "end": 9.78
+    },
+    {
+     "w": "video",
+     "start": 9.78,
+     "end": 10.12
+    },
+    {
+     "w": "corto.",
+     "start": 10.12,
+     "end": 10.36
+    }
+   ]
+  },
+  {
+   "text": "Todo empieza con un insight del informe.",
+   "start": 10.96,
+   "end": 13.22,
+   "words": [
+    {
+     "w": "Todo",
+     "start": 10.96,
+     "end": 11.22
+    },
+    {
+     "w": "empieza",
+     "start": 11.22,
+     "end": 11.7
+    },
+    {
+     "w": "con",
+     "start": 11.7,
+     "end": 11.94
+    },
+    {
+     "w": "un",
+     "start": 11.94,
+     "end": 12.09
+    },
+    {
+     "w": "insight",
+     "start": 12.09,
+     "end": 12.54
+    },
+    {
+     "w": "del",
+     "start": 12.54,
+     "end": 12.72
+    },
+    {
+     "w": "informe.",
+     "start": 12.72,
+     "end": 13.22
+    }
+   ]
+  },
+  {
+   "text": "Una idea clara, con evidencia, y un dato que haga pensar.",
+   "start": 13.6,
+   "end": 17.44,
+   "words": [
+    {
+     "w": "Una",
+     "start": 13.6,
+     "end": 13.86
+    },
+    {
+     "w": "idea",
+     "start": 13.86,
+     "end": 14.09
+    },
+    {
+     "w": "clara,",
+     "start": 14.2,
+     "end": 14.49
+    },
+    {
+     "w": "con",
+     "start": 14.82,
+     "end": 15.0
+    },
+    {
+     "w": "evidencia,",
+     "start": 15.0,
+     "end": 15.69
+    },
+    {
+     "w": "y",
+     "start": 15.81,
+     "end": 15.94
+    },
+    {
+     "w": "un",
+     "start": 15.94,
+     "end": 16.16
+    },
+    {
+     "w": "dato",
+     "start": 16.16,
+     "end": 16.54
+    },
+    {
+     "w": "que",
+     "start": 16.54,
+     "end": 16.7
+    },
+    {
+     "w": "haga",
+     "start": 16.7,
+     "end": 16.98
+    },
+    {
+     "w": "pensar.",
+     "start": 16.98,
+     "end": 17.44
+    }
+   ]
+  },
+  {
+   "text": "Primero, escribe el guion en una tabla: tiempo, voz en off, texto en pantalla y lo que se ve.",
+   "start": 17.88,
+   "end": 23.88,
+   "words": [
+    {
+     "w": "Primero,",
+     "start": 17.88,
+     "end": 18.36
+    },
+    {
+     "w": "escribe",
+     "start": 18.48,
+     "end": 18.96
+    },
+    {
+     "w": "el",
+     "start": 18.96,
+     "end": 19.18
+    },
+    {
+     "w": "guion",
+     "start": 19.18,
+     "end": 19.42
+    },
+    {
+     "w": "en",
+     "start": 19.42,
+     "end": 19.56
+    },
+    {
+     "w": "una",
+     "start": 19.56,
+     "end": 19.74
+    },
+    {
+     "w": "tabla:",
+     "start": 19.74,
+     "end": 20.12
+    },
+    {
+     "w": "tiempo,",
+     "start": 20.48,
+     "end": 20.97
+    },
+    {
+     "w": "voz",
+     "start": 21.15,
+     "end": 21.46
+    },
+    {
+     "w": "en",
+     "start": 21.46,
+     "end": 21.62
+    },
+    {
+     "w": "off,",
+     "start": 21.62,
+     "end": 21.8
+    },
+    {
+     "w": "texto",
+     "start": 22.14,
+     "end": 22.46
+    },
+    {
+     "w": "en",
+     "start": 22.46,
+     "end": 22.56
+    },
+    {
+     "w": "pantalla",
+     "start": 22.56,
+     "end": 23.1
+    },
+    {
+     "w": "y",
+     "start": 23.25,
+     "end": 23.36
+    },
+    {
+     "w": "lo",
+     "start": 23.36,
+     "end": 23.44
+    },
+    {
+     "w": "que",
+     "start": 23.44,
+     "end": 23.58
+    },
+    {
+     "w": "se",
+     "start": 23.58,
+     "end": 23.74
+    },
+    {
+     "w": "ve.",
+     "start": 23.74,
+     "end": 23.88
+    }
+   ]
+  },
+  {
+   "text": "Después, genera la voz en ElevenLabs y guárdala en la carpeta de audio.",
+   "start": 24.32,
+   "end": 28.43,
+   "words": [
+    {
+     "w": "Después,",
+     "start": 24.32,
+     "end": 25.0
+    },
+    {
+     "w": "genera",
+     "start": 25.0,
+     "end": 25.44
+    },
+    {
+     "w": "la",
+     "start": 25.44,
+     "end": 25.58
+    },
+    {
+     "w": "voz",
+     "start": 25.58,
+     "end": 25.84
+    },
+    {
+     "w": "en",
+     "start": 25.84,
+     "end": 25.98
+    },
+    {
+     "w": "ElevenLabs",
+     "start": 25.98,
+     "end": 26.79,
+     "syl": [
+      [
+       25.98,
+       26.42
+      ],
+      [
+       26.42,
+       26.79
+      ]
+     ]
+    },
+    {
+     "w": "y",
+     "start": 26.79,
+     "end": 26.98
+    },
+    {
+     "w": "guárdala",
+     "start": 26.98,
+     "end": 27.38
+    },
+    {
+     "w": "en",
+     "start": 27.38,
+     "end": 27.5
+    },
+    {
+     "w": "la",
+     "start": 27.5,
+     "end": 27.64
+    },
+    {
+     "w": "carpeta",
+     "start": 27.64,
+     "end": 28.12
+    },
+    {
+     "w": "de",
+     "start": 28.12,
+     "end": 28.26
+    },
+    {
+     "w": "audio.",
+     "start": 28.26,
+     "end": 28.43
+    }
+   ]
+  },
+  {
+   "text": "El sistema encuentra el momento exacto de cada palabra.",
+   "start": 28.94,
+   "end": 32.22,
+   "words": [
+    {
+     "w": "El",
+     "start": 28.94,
+     "end": 29.1
+    },
+    {
+     "w": "sistema",
+     "start": 29.1,
+     "end": 29.64
+    },
+    {
+     "w": "encuentra",
+     "start": 29.64,
+     "end": 30.12
+    },
+    {
+     "w": "el",
+     "start": 30.12,
+     "end": 30.26
+    },
+    {
+     "w": "momento",
+     "start": 30.26,
+     "end": 30.7
+    },
+    {
+     "w": "exacto",
+     "start": 30.7,
+     "end": 31.3
+    },
+    {
+     "w": "de",
+     "start": 31.3,
+     "end": 31.39
+    },
+    {
+     "w": "cada",
+     "start": 31.54,
+     "end": 31.89
+    },
+    {
+     "w": "palabra.",
+     "start": 31.89,
+     "end": 32.22
+    }
+   ]
+  },
+  {
+   "text": "Luego, con Claude, describe cada escena con tus palabras.",
+   "start": 32.74,
+   "end": 35.99,
+   "words": [
+    {
+     "w": "Luego,",
+     "start": 32.74,
+     "end": 33.15
+    },
+    {
+     "w": "con",
+     "start": 33.26,
+     "end": 33.47
+    },
+    {
+     "w": "Claude,",
+     "start": 33.47,
+     "end": 33.78
+    },
+    {
+     "w": "describe",
+     "start": 33.93,
+     "end": 34.46
+    },
+    {
+     "w": "cada",
+     "start": 34.58,
+     "end": 34.86
+    },
+    {
+     "w": "escena",
+     "start": 34.86,
+     "end": 35.28
+    },
+    {
+     "w": "con",
+     "start": 35.28,
+     "end": 35.44
+    },
+    {
+     "w": "tus",
+     "start": 35.44,
+     "end": 35.64
+    },
+    {
+     "w": "palabras.",
+     "start": 35.64,
+     "end": 35.99
+    }
+   ]
+  },
+  {
+   "text": "Claude la programa: textos, íconos, personajes y animaciones, sincronizados con la voz.",
+   "start": 36.57,
+   "end": 42.71,
+   "words": [
+    {
+     "w": "Claude",
+     "start": 36.57,
+     "end": 36.92
+    },
+    {
+     "w": "la",
+     "start": 36.92,
+     "end": 37.11
+    },
+    {
+     "w": "programa:",
+     "start": 37.11,
+     "end": 37.64
+    },
+    {
+     "w": "textos,",
+     "start": 38.0,
+     "end": 38.62
+    },
+    {
+     "w": "íconos,",
+     "start": 38.76,
+     "end": 39.38
+    },
+    {
+     "w": "personajes",
+     "start": 39.38,
+     "end": 40.12
+    },
+    {
+     "w": "y",
+     "start": 40.12,
+     "end": 40.22
+    },
+    {
+     "w": "animaciones,",
+     "start": 40.22,
+     "end": 40.95
+    },
+    {
+     "w": "sincronizados",
+     "start": 41.17,
+     "end": 42.1
+    },
+    {
+     "w": "con",
+     "start": 42.1,
+     "end": 42.26
+    },
+    {
+     "w": "la",
+     "start": 42.26,
+     "end": 42.38
+    },
+    {
+     "w": "voz.",
+     "start": 42.38,
+     "end": 42.71
+    }
+   ]
+  },
+  {
+   "text": "Revisa el resultado en el navegador, pide ajustes, y exporta el video con un solo comando.",
+   "start": 43.09,
+   "end": 48.67,
+   "words": [
+    {
+     "w": "Revisa",
+     "start": 43.09,
+     "end": 43.5
+    },
+    {
+     "w": "el",
+     "start": 43.5,
+     "end": 43.6
+    },
+    {
+     "w": "resultado",
+     "start": 43.6,
+     "end": 44.12
+    },
+    {
+     "w": "en",
+     "start": 44.12,
+     "end": 44.26
+    },
+    {
+     "w": "el",
+     "start": 44.26,
+     "end": 44.34
+    },
+    {
+     "w": "navegador,",
+     "start": 44.34,
+     "end": 44.89
+    },
+    {
+     "w": "pide",
+     "start": 45.24,
+     "end": 45.46
+    },
+    {
+     "w": "ajustes,",
+     "start": 45.46,
+     "end": 46.02
+    },
+    {
+     "w": "y",
+     "start": 46.27,
+     "end": 46.42
+    },
+    {
+     "w": "exporta",
+     "start": 46.42,
+     "end": 46.82
+    },
+    {
+     "w": "el",
+     "start": 46.82,
+     "end": 47.0
+    },
+    {
+     "w": "video",
+     "start": 47.0,
+     "end": 47.4
+    },
+    {
+     "w": "con",
+     "start": 47.4,
+     "end": 47.7
+    },
+    {
+     "w": "un",
+     "start": 47.7,
+     "end": 47.9
+    },
+    {
+     "w": "solo",
+     "start": 47.9,
+     "end": 48.2
+    },
+    {
+     "w": "comando.",
+     "start": 48.2,
+     "end": 48.67
+    }
+   ]
+  },
+  {
+   "text": "Del informe a un video, en una tarde.",
+   "start": 49.03,
+   "end": 51.35,
+   "words": [
+    {
+     "w": "Del",
+     "start": 49.03,
+     "end": 49.26
+    },
+    {
+     "w": "informe",
+     "start": 49.26,
+     "end": 49.78
+    },
+    {
+     "w": "a",
+     "start": 49.78,
+     "end": 49.84
+    },
+    {
+     "w": "un",
+     "start": 49.84,
+     "end": 50.02
+    },
+    {
+     "w": "video,",
+     "start": 50.02,
+     "end": 50.46
+    },
+    {
+     "w": "en",
+     "start": 50.62,
+     "end": 50.9
+    },
+    {
+     "w": "una",
+     "start": 50.9,
+     "end": 51.16
+    },
+    {
+     "w": "tarde.",
+     "start": 51.16,
+     "end": 51.35
+    }
+   ]
+  },
+  {
+   "text": "Futuros Vivos, por InnLab.",
+   "start": 51.91,
+   "end": 53.94,
+   "words": [
+    {
+     "w": "Futuros",
+     "start": 51.91,
+     "end": 52.5
+    },
+    {
+     "w": "Vivos,",
+     "start": 52.5,
+     "end": 52.92
+    },
+    {
+     "w": "por",
+     "start": 53.18,
+     "end": 53.45
+    },
+    {
+     "w": "InnLab.",
+     "start": 53.45,
+     "end": 53.94
+    }
+   ]
+  }
+ ]
+}
